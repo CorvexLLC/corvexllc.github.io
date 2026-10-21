@@ -16,6 +16,7 @@ Rules for checking station log entries against run ticket photos.
 ## Known name mappings (not errors)
 
 - **Customer:** every Ride The Lightning CTB (Phoenix Operating) ticket is customer **MV Purchasing**, even when the ticket paper says United Energy Trading, LLC or prints no purchaser.
+- **Customer from destination:** when a ticket's destination reads **"ALEXANDER-TIDAL Lot 13"**, the customer is **Tidal Marketing**, even if the ticket paper says Concord Energy Logistics.
 - **Trucking company:** "Vertex Logistics USA" on a ticket = "Vertex Oilfield Services" in the log.
 - **Lease name:** small differences are fine (e.g. well number left out, "MICHELLE LAUREN #1H" vs "Michelle Lauren 17-20 #1H").
 - **Trucking company on Badlands ticket paper:** log **Badlands Tank Lines** even when the "Authority" line shows another carrier (e.g. Grubber Trucking and Energy, Great Northern Trucking).

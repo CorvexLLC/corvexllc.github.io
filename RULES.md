@@ -6,7 +6,7 @@ Rules for checking station log entries against run ticket photos.
 2. **Gravity** — the log must use the ticket's **observed gravity** (Obs. Grav), not corrected gravity.
    - **Exception — Topshelf tickets:** use the ticket's **average gravity** and **average temperature** instead of observed.
 3. **BS&W** — minimum is **0.05**. If the ticket prints less than 0.05, the log should show 0.05. A logged value below 0.05 is an error.
-4. **Crude type** — set by observed gravity: above 50 = **Condensate**, below 33 = **Sour**, otherwise **Sweet**. The crude type printed on the ticket does not decide it. There is no "H2S" type — we don't take H2S; use the gravity rule.
+4. **Crude type** — set by observed gravity: above 50 = **Condensate**, below 33 = **Sour**, otherwise **Sweet**. The crude type printed on the ticket does not decide it. There is no "H2S" type — we don't take H2S; use the gravity rule. This also applies to CPI internal transfers (e.g. South Alexander, L-numbered bills of lading).
 
 ## What to check
 
